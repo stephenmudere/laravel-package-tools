@@ -1,16 +1,16 @@
 {
-    "name": "spatie/laravel-package-tools",
+    "name": "stephenmudere/laravel-package-tools",
     "description": "Tools for creating Laravel packages",
     "keywords": [
         "spatie",
         "laravel-package-tools"
     ],
-    "homepage": "https://github.com/spatie/laravel-package-tools",
+    "homepage": "https://github.com/stephenmudere/laravel-package-tools",
     "license": "MIT",
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
+            "name": "S M",
+            "email": "stephenmudere@gmail.com",
             "role": "Developer"
         }
     ],
