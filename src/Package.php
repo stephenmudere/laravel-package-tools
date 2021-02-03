@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\LaravelPackageTools;
+namespace Stephenmudere\LaravelPackageTools;
 
 class Package
 {

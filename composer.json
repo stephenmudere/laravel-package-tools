@@ -25,13 +25,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\LaravelPackageTools\\": "src",
-            "Spatie\\LaravelPackageTools\\Database\\Factories\\": "database/factories"
+            "Stephenmudere\\LaravelPackageTools\\": "src",
+            "Stephenmudere\\LaravelPackageTools\\Database\\Factories\\": "database/factories"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\LaravelPackageTools\\Tests\\": "tests"
+            "Stephenmudere\\LaravelPackageTools\\Tests\\": "tests"
         }
     },
     "scripts": {

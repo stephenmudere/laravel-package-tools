@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Spatie\LaravelPackageTools;
+namespace Stephenmudere\LaravelPackageTools;
 
 use Illuminate\Support\ServiceProvider;
-use Spatie\LaravelPackageTools\Exceptions\InvalidPackage;
+use Stephenmudere\LaravelPackageTools\Exceptions\InvalidPackage;
 
 abstract class PackageServiceProvider extends ServiceProvider
 {

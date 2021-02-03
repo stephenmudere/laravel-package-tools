@@ -10,8 +10,8 @@ migrations, and more.
 Here's an example of how it can be used.
 
 ```php
-use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Spatie\LaravelPackageTools\Package;
+use Stephenmudere\LaravelPackageTools\PackageServiceProvider;
+use Stephenmudere\LaravelPackageTools\Package;
 
 class YourPackageServiceProvider extends PackageServiceProvider
 {
@@ -46,11 +46,11 @@ This package is opinionated on how you should structure your package. To get sta
 
 ## Usage
 
-In your package you should let your service provider extend `Spatie\LaravelPackageTools\PackageServiceProvider`.
+In your package you should let your service provider extend `Stephenmudere\LaravelPackageTools\PackageServiceProvider`.
 
 ```php
-use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Spatie\LaravelPackageTools\Package;
+use Stephenmudere\LaravelPackageTools\PackageServiceProvider;
+use Stephenmudere\LaravelPackageTools\Package;
 
 class YourPackageServiceProvider extends PackageServiceProvider
 {
